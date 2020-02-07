@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="598c6c7f-371a-4398-9fc9-b94aabe3853b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/assets/js/elementCreation.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/elementCreation.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\Node\GL22020\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Wpf2brj5gf9lFwbpBB6DVkFghU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/images" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Node\GL22020\assets\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Node\GL22020\assets\js" />
+      <recent name="E:\Node\GL22020\assets\css" />
+      <recent name="E:\Node\GL22020\assets" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/assets/js/test.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.test.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="598c6c7f-371a-4398-9fc9-b94aabe3853b" name="Default Changelist" comment="" />
+      <created>1579851250432</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579851250432</updated>
+      <workItem from="1579851251760" duration="2181000" />
+      <workItem from="1579858038494" duration="133000" />
+      <workItem from="1580454730553" duration="2708000" />
+      <workItem from="1580461507538" duration="609000" />
+      <workItem from="1581059492292" duration="4655000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="93" y="93" width="1350" height="638" maximized="true" key="DiffContextDialog" timestamp="1581063485349">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" maximized="true" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1581063485349" />
+    <state width="1515" height="326" key="GridCell.Tab.0.bottom" timestamp="1579854624102">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="326" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1579854624102" />
+    <state width="1515" height="326" key="GridCell.Tab.0.center" timestamp="1579854624102">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="326" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1579854624102" />
+    <state width="1515" height="326" key="GridCell.Tab.0.left" timestamp="1579854624102">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="326" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1579854624102" />
+    <state width="1515" height="326" key="GridCell.Tab.0.right" timestamp="1579854624102">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="326" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1579854624102" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1581059717803">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1581059717803" />
+  </component>
+</project>
